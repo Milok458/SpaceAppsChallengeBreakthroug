@@ -1583,7 +1583,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Are you sure you want to buy a dick for $10?
+  m_Text: Are you sure you want to buy an engine for $10?
 --- !u!222 &311437822
 CanvasRenderer:
   m_ObjectHideFlags: 0
